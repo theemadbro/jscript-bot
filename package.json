@@ -1,0 +1,14 @@
+{
+    "name": "jscript-bot",
+    "dependencies": {
+        "botbuilder": "^4.0.0-preview1.1",
+        "botbuilder-dialogs": "^4.0.0-preview1.2",
+        "dotenv": "^2.0.0",
+        "dotenv-extended": "^2.2.0",
+        "restify": "^4.3.0"
+    },
+    "devDependencies": {
+        "@types/node": "^6.0.52",
+        "@types/restify": "^2.0.35"
+    }
+}
